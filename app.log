@@ -1,0 +1,34 @@
+2026-06-08 16:07:06,296 - [INFO] - User ec1 registered successfully.
+2026-06-08 16:07:12,844 - [INFO] - User ec1 registered successfully.
+2026-06-08 16:07:31,540 - [ERROR] - Error handling client ec1: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 16:07:31,540 - [INFO] - User ec1 disconnected.
+2026-06-08 16:07:33,414 - [ERROR] - Error handling client ec1: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 16:13:51,860 - [INFO] - User ec registered successfully.
+2026-06-08 16:14:06,098 - [INFO] - User c2 registered successfully.
+2026-06-08 16:14:35,549 - [ERROR] - Error handling client ec: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 16:14:35,550 - [INFO] - User ec disconnected.
+2026-06-08 16:14:39,188 - [ERROR] - Error handling client c2: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 16:14:39,188 - [INFO] - User c2 disconnected.
+2026-06-08 16:30:29,980 - [ERROR] - DB Registration Error: no such table: users
+2026-06-08 16:30:32,516 - [ERROR] - DB Auth Error: no such table: users
+2026-06-08 16:30:35,968 - [ERROR] - DB Registration Error: no such table: users
+2026-06-08 16:32:05,015 - [ERROR] - DB Registration Error: no such table: users
+2026-06-08 16:32:06,180 - [ERROR] - DB Auth Error: no such table: users
+2026-06-08 16:32:07,658 - [ERROR] - DB Registration Error: no such table: users
+2026-06-08 16:34:52,923 - [ERROR] - DB Registration Error: no such table: users
+2026-06-08 16:37:15,920 - [ERROR] - DB Registration Error: no such table: users
+2026-06-08 16:37:19,545 - [ERROR] - DB Auth Error: no such table: users
+2026-06-08 16:37:57,811 - [ERROR] - DB Registration Error: no such table: users
+2026-06-08 16:39:52,552 - [INFO] - User sec registered and logged in.
+2026-06-08 16:40:24,826 - [INFO] - User sec logged in successfully.
+2026-06-08 16:40:28,280 - [ERROR] - Error handling client sec: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 16:40:28,281 - [INFO] - User sec disconnected.
+2026-06-08 16:40:57,614 - [INFO] - User sec1 registered and logged in.
+2026-06-08 16:42:23,401 - [ERROR] - Error handling client sec1: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 16:42:23,401 - [INFO] - User sec1 disconnected.
+2026-06-08 16:42:28,903 - [ERROR] - Error handling client sec: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 16:44:14,578 - [INFO] - User guy registered and logged in.
+2026-06-08 16:44:32,276 - [INFO] - User guy2 registered and logged in.
+2026-06-08 16:45:35,696 - [INFO] - User king registered and logged in.
+2026-06-08 16:46:57,675 - [ERROR] - Error handling client king: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 16:46:57,676 - [INFO] - User king disconnected.
