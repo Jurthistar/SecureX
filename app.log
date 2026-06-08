@@ -32,3 +32,11 @@
 2026-06-08 16:45:35,696 - [INFO] - User king registered and logged in.
 2026-06-08 16:46:57,675 - [ERROR] - Error handling client king: [WinError 10054] An existing connection was forcibly closed by the remote host
 2026-06-08 16:46:57,676 - [INFO] - User king disconnected.
+2026-06-08 17:32:54,066 - [ERROR] - Error handling client guy2: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 17:32:54,066 - [INFO] - User guy2 disconnected.
+2026-06-08 17:32:57,719 - [ERROR] - Error handling client guy: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-08 17:32:57,720 - [INFO] - User guy disconnected.
+2026-06-08 17:35:51,272 - [INFO] - User guy1 registered and logged in.
+2026-06-08 17:36:03,240 - [INFO] - User guy2 registered and logged in.
+2026-06-08 17:39:19,348 - [INFO] - User sec1 registered and logged in.
+2026-06-08 17:40:07,200 - [INFO] - User secq registered and logged in.

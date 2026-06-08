@@ -166,6 +166,9 @@ class SecureServer:
                     client_socket.sendall(json.dumps({"type": "KEY_RESP", "target": target, "key": target_key}).encode())
                     
                 elif msg["type"] == "SECURE_MSG":
+                    # --- ADD THIS LOGGING LINE TO CONFIRM SEARCH DATA ---
+                    print(f"\n[SERVER INTERCEPT] Raw packet passing through: {json.dumps(msg, indent=2)}")
+                    
                     target = msg["target"]
                     if target in self.clients:
                         self.clients[target].sendall(json.dumps(msg).encode())
